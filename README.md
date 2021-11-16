@@ -15,7 +15,7 @@ Easy way to let server members generate accounts, admin's can add accounts strai
 You need to have NodeJS version 16.x
 
 ```bash
-npm insall
+npm install
 ```
 Run this to install all node modules
 
