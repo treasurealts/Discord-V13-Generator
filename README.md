@@ -1,3 +1,8 @@
+### [Join New Discord!](https://discord.gg/ns25QwckKU)
+### [Join New Discord!](https://discord.gg/ns25QwckKU)
+### [Join New Discord!](https://discord.gg/ns25QwckKU)
+### [Join New Discord!](https://discord.gg/ns25QwckKU)
+
 # Discord.js V13 Generator Bot
 Easy way to let server members generate accounts, admin's can add accounts straight from Discord.
 
